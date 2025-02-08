@@ -71,8 +71,8 @@ USERS_API=http://localhost:5000
 npm start
 ```
 
+- The post server should now be running at `http://localhost:3000`.
 - The user server should now be running at `http://localhost:5000`.
-- The post servers should now be running at `http://localhost:3000`.
 - The admin server should now be running at `http://localhost:8000`.
 
 ## **Maintenance Mode Toggle**
